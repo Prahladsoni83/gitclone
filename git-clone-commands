@@ -1,0 +1,31 @@
+for git clone
+
+commands are
+
+$ git clone ............ put here ssh code here i.e. git@github.com:Prahladsoni83/gitclone.git
+
+$ so git clone git@github.com:Prahladsoni83/gitclone.git
+
+
+it will connect to the github account
+
+
+now do ls to see all files and folders present on the github 
+
+also can send file after clonning from terminal to github through 
+
+git add .
+
+git commit -m "any comment"
+
+git push -u origin main/master or any present branch
+
+to see the current branch on the terminal
+
+type git branch -v
+
+it will show all branches
+
+the * mark will show the current working branch
+
+
